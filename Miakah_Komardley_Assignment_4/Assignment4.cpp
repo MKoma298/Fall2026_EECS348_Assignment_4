@@ -1,4 +1,10 @@
-//Prolouge
+//Prolouge:
+//Name: EECS348 Assignment 4
+//Inputs: puzzle files labled Puzzle1.txt etc...
+//Output: Sudoku puzzle in boxes with all solutions or "No solution."
+//Sources: Chatgpt and Gemini
+// Miakah Komardley
+// Date: Oct. 15 2026
 
 #include <iostream>
 #include <fstream>
